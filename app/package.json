@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Command-line-enabled tutorial application for software development",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tutorial",
+    "development",
+    "terminal"
+  ],
+  "author": "VukGinRayJohn",
+  "license": "ISC"
+}
